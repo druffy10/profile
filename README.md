@@ -30,12 +30,12 @@
    
 
 
-## 🛠 Technical Stack
-*   Languages: Java, Python; 
-*   SQL: MySQL, PostgreSQL; 
-*   Graphics Suites: Adobe Photoshop, Adobe Lightroom, Canva, CorelDRAW;   
-*   HTML/CSS; 
-*   GitHub, Git, Jira, Postman; 
+🛠 Technical Stack
+Languages: Java, Python; 
+SQL: MySQL, PostgreSQL; 
+Graphics Suites: Adobe Photoshop, Adobe Lightroom, Canva, CorelDRAW;   
+HTML/CSS; 
+GitHub, Git, Jira, Postman; 
 
 
 <div align="center" style="margin: 40px 0">
