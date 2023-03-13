@@ -30,7 +30,7 @@
    
 
 
-🛠 Technical Stack
+🛠 Technical Stack: 
 Languages: Java, Python; 
 SQL: MySQL, PostgreSQL; 
 Graphics Suites: Adobe Photoshop, Adobe Lightroom, Canva, CorelDRAW;   
